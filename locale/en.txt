@@ -1,0 +1,267 @@
+#: locale=en
+
+## E-Learning
+
+### Answer
+questionOption_D14A945A_F4C8_C89E_41C0_BF7A85638E9A.text =  Food and amenities delivery
+questionOption_F7F03EF1_EC49_D9AC_41C5_005454D3D351.text = Addition of information for objects in real space.
+questionOption_32E66BA9_2A69_3943_41C0_A1037747720E.text = Airport
+questionOption_D4BF3067_F458_48B6_41EA_D64798460896.text = Airports
+questionOption_F7D4DA2E_EDB8_58B7_41DC_4326F8F6D322.text = All of the above
+questionOption_F5C04D9C_EDB8_3B9B_41E4_251948028696.text = All of the above
+questionOption_D58CE400_F458_486B_41DD_19EE604FD6B8.text = All of the above
+questionOption_F9B20A0E_EC48_3877_41DA_AB3FA800546A.text = All of the above
+questionOption_32E60BA9_2A69_3943_41B0_2BB5CC7B2897.text = All of the above
+questionOption_EA5A490A_F459_D87E_41DD_6006EB5E6190.text = All of the above.
+questionOption_F61B9489_EC49_C87D_41E9_12F42257F405.text = All of the above.
+questionOption_4CC4A59B_58E5_BEA7_41C0_77804616FDF1.text = All of the above.
+questionOption_D5F97065_F458_48AA_41EB_0E4D6CD764BA.text = Anti-collision system for save navigation around people and objects.
+questionOption_F6136254_EC49_C8EB_41E5_D51660495ACE.text = Augment virtual objects in real space.
+questionOption_ED9CD3A3_F4B8_CFAD_41E4_A7DAFF1EDB33.text = Conducting building Patrols.
+questionOption_D4DA543D_F458_4895_41C6_B7A16DE3C794.text = Construction sites
+questionOption_F5EED78F_EDB8_4876_41DF_224075677B77.text = Detects and records personnels' temperature.
+questionOption_D10C005D_F4F8_489A_41CF_08E04445C7D7.text = Do not load the robot with more than 50kg of weight.
+questionOption_ED897592_F4B9_C86E_41A2_3AF664417DC9.text = Do not operate in rough terrains such as asphalt roads.
+questionOption_EBF058E3_F4B9_F9AD_41ED_70D5FC67DA19.text = Do not operate on steep stairs with stair rise of more than 12cm
+questionOption_ED868722_F4B9_C8AF_418B_6DFB0DB02189.text = Do not operate the in low battery conditions
+questionOption_D111BECD_F4F8_39F5_41DE_93722E856DF8.text = Do not operate the robot in an unsupervised condition.
+questionOption_D15C6C11_F4F8_386D_41E7_ED87DBA7E0FD.text = Do not operate the robot on stairs.
+questionOption_D166DDC3_F4F8_3BED_41ED_56D0992F29C7.text = Do not operate the robot on tough terrains.
+questionOption_EDA2836C_F4B9_C8BB_41DA_07611EC5376F.text = Do not operate when the slope is larger than 22°.
+questionOption_ED9264BE_F4B8_C997_41E1_7273AD0E072E.text = Ensuring that building occupants are wearing mask.
+questionOption_D1977FC2_F4C8_57EF_41E8_3B7CE9017D7D.text = For building inspection
+questionOption_D1EEEEA6_F4C8_59B7_41E8_5DD6DC968332.text = For enforcing social distancing.
+questionOption_D19981D7_F4C8_4B95_41E0_73549B328CDE.text = For logistics and delivery.
+questionOption_D1C8ACF6_F4C8_5996_41DE_218CB93297F5.text = For security patrol
+questionOption_ED86560C_F4B8_C87A_41E9_F383FA39605D.text = Greeting of guests.
+questionOption_4A5E02A1_58E2_BAE3_41D5_4BE17CD722E6.text = Human Presence Detection
+questionOption_F5CAEBDA_EDB8_3F9F_41D9_675D36480948.text = Identify different types of personnel and access permission.
+questionOption_D65FBEDC_F458_799B_41E7_01823286A7B9.text = Improved productivity by reducing manpower for cleaning.
+questionOption_EDB8A1D0_F4B8_CBEB_41E2_4D11E0BD3D14.text = Improving fire safety.
+questionOption_FDC10CE8_EBB8_39BA_41E0_4C89CEB19722.text = Install the Robot Arm in an enclosed environment.
+questionOption_D140231C_F4C8_C89B_41E9_C58B1688DCB2.text = Intelligent waste collection
+questionOption_F5892A27_EDB8_38B5_41BD_09936EC92FB7.text = It allows for manual attendance record and data transfer to a cloud database.
+questionOption_F585CBB6_EDB8_3F97_41EC_D2F2DA92CE0B.text = It allows for stricter enforcement of COVID-19 measures.
+questionOption_D7A3A5D4_F4C8_4BEB_41D8_0B1352DC084C.text = It can avoid obstacles
+questionOption_F7A84661_EDB9_C8AA_41E4_5E0B1EEA4F32.text = It can be used in every type of terrain condition.
+questionOption_D7BC63C0_F4C8_4FEA_41DB_605111178B36.text = It can operate on any slope
+questionOption_EA5A1909_F459_D87A_41A1_C34D96DFE603.text = It is expensive to adopt the VR technology.
+questionOption_F79B88A7_EDB8_39B5_41EC_B91CA6ABE650.text = It reduces the building's energy consumption.
+questionOption_FDE9774F_EBB8_C8F5_41E5_C2E7DB2AB394.text = Keep the Robot Arm away from all forms of light.
+questionOption_FDCF2A0A_EBB8_387F_41E8_108636ECFC44.text = Keep the Robot Arm away from flammable materials.
+questionOption_F9AA9637_EC48_4895_41E8_D790798BA493.text = Laboratories
+questionOption_FDCA2B57_EBB8_3895_41E6_18D3555034D9.text = Leave a space of at least 200mm on either side of its controller.
+questionOption_D7D0308E_F4C8_4877_41D3_F501450B028A.text = Lift compatible
+questionOption_F96D2166_EC48_48B6_41DC_3DE102712474.text = Manufacturing
+questionOption_D4B211B4_F458_4BAB_41ED_2FD4FEF47F6C.text = Mecial Centre
+questionOption_F7DE78AE_EDB8_59B7_41DC_2FEE55AA0AC1.text = Novel and interactive learning experiences
+questionOption_F60A20D4_EC49_C9EB_41C8_FBCF3F6C3BCC.text = Real-time interaction within AR application.
+questionOption_F5D38992_EDB8_386F_41EC_48DBEDDC0367.text = Recognising face masks.
+questionOption_F7E0172F_EDB8_48B5_41D2_B15EDD47DE04.text = Remote workforce training
+questionOption_D4991E30_F458_38AB_41E8_BBB4293A9551.text = Schools
+questionOption_32E61BA9_2A69_3943_418A_FE253C4AFC20.text = Shopping Mall
+questionOption_4CF1E27B_58E5_BA66_41C9_6815EE273DA6.text = Strong magnets in robot covers can pinch the user's finger.
+questionOption_D674C2D4_F458_49EB_41E9_3532F08D39F5.text = Sustainable eco-friendly cleaning
+questionOption_D7CDE167_F4C8_48B5_41D4_3C2747797413.text = Take payload of up to 80kg
+questionOption_D147A15A_F4C8_C89F_41CD_7A4ACBAAC08E.text = Temperature detection
+questionOption_F9A39411_EC48_486A_41E9_2290FEB99198.text = Testing & Sample Handling
+questionOption_EA5A3909_F459_D87A_41EB_E3901A5F8800.text = The need for constent technical updates.
+questionOption_4A2265D1_58E2_BEA2_41CF_E9B126CA8555.text = Titanium Reflector
+questionOption_32E54BAA_2A69_3941_41C4_71C4EF6CA2F9.text = To detect occupant temperature.
+questionOption_EA5BF907_F459_D876_41D5_6898E26C3720.text = To enable remote learning for safety trainings.
+questionOption_EA5BC907_F459_D876_41E1_95C5998C3B01.text = To enhance the learning experience of students.
+questionOption_32E56BAA_2A69_3941_41C4_51C75EDC5604.text = To ensure security of the building.
+questionOption_EA5BE907_F459_D876_41E4_4A5A918176A6.text = To improve customer experience.
+questionOption_32E59BA9_2A69_3943_4193_A88DD450704B.text = To manage crowd and mask wearing issues.
+questionOption_32E52BAA_2A69_3941_41C0_F3FB73B92084.text = To trace unauthorised individuals.
+questionOption_EA5BD907_F459_D876_41DF_7F35997C2BD6.text = To visualise building in 3D view.
+questionOption_4A2EB54C_58E2_BFA1_41D3_F6751C1DF9DB.text = Toe Level Obstacles Detection
+questionOption_4CCAA376_58E5_BA61_41D3_A8D30CAAD251.text = UV Robot’s magnetic fields will affect pacemaker wearers.
+questionOption_4C081186_58E2_B6AE_41B0_B8E27CDBE632.text = UVC Lamp
+questionOption_4B178056_58E5_B5AE_41AF_17EB52FEA263.text = UVC band can cause erythema and conjunctivitis.
+questionOption_32E63BA9_2A69_3943_419E_5995D8CCDBA3.text = University Campus
+questionOption_EA5A2909_F459_D87A_41C1_2CB1E8BF5269.text = Users may experience serious locomotion sickness.
+questionOption_F7F5D369_EDB8_48BD_41E7_A15A040DDF67.text = Visualisation
+questionOption_D2823072_F4C8_C8AF_41E0_0D343E4437C6.text = Waste cleaning
+
+### Question
+question_EAA8FE9C_F4B8_399B_41B1_AF3693D01FD4.title = What are currently the main functions of the Robot Dog? (Multiple answers)
+question_F6C65F04_EDB8_586A_41B3_7793E8D22A76.title = What are the benefits of Augmented Reality (AR) technology? Please select 1 of the following options.
+question_D7F1551F_F458_4895_41D2_063F21112FC7.title = What are the benefits of the Cleaning Robot? Please select 1 of the following options.
+question_EA5A0908_F459_D87A_41DB_68798533572D.title = What are the current limitations of the VR technology? Please select 1 of the following options.
+question_F7D79B5A_EC48_389F_41E2_CFC0DFB80C0B.title = What are the features of AR technology? Please select 1 of the following options.
+question_D1B42524_F4CF_C8AB_41E2_FBD2E8F04CE7.title = What are the features of the AGV robot? (Multiple Answers)
+question_D19BD170_F4C8_48AB_41AD_5606B71159E8.title = What are the functions of the AGV Robot? (Multiple answers)
+question_F59A8D7A_EDB8_589F_41EB_1A2FF5B814B7.title = What are the main functions of the Intelligent Temperature Taking Robot? Please select 1 of the following options.
+question_FE55888A_EBB8_787E_41D6_A4A26AE7F036.title = What are the possible applications of the Robot Arm? Please select 1 of the following options.
+question_32E69A5D_2A69_3BC3_41BC_43F5476D796B.title = What are the possible locations for using the Social Distancing Robot? Please select 1 of the following options.
+question_4B6A7A0B_58E2_95A6_4195_9CDED92586CC.title = What are the potential hazards of UVC Robot? Please select 1 of the following options.
+question_D1050EC6_F4F8_59F7_41EC_6D9DC964EB1D.title = What are the precautions to be taken while operating the All-terrain Outdoor Robot? (Multiple answers)
+question_D7732CE9_F458_79BA_41CE_52B3ACFF7F70.title = What are the suitable locations for using the Cleaning Robot? (Multiple answers)
+question_32E5DBA9_2A69_3943_416E_A82364854B65.title = What is the primary function of the Social Distancing Robot? Please select 1 of the following options.
+question_EE275DCA_F4C8_3BFE_41DD_FC032CEA3E4E.title = Which of the following are possible applications of All-terrain Outdoor Robot? (Multiple answers)
+question_4B392C84_58EE_AEA2_41D3_AED97436D5D9.title = Which of the following is NOT a component of the UVC Robot? Please select 1 of the following options.
+question_F6CFCD6E_EDB8_58B7_41C3_D8C07EA3748E.title = Which of the following option is true about  Intelligent Temperature Taking Robot? Please select 1 of the following options.
+question_FDBD95E2_EBD8_4BAE_41E8_0F8EE5EF4F9B.title = Which of the following options are precautions to be taken while installing Robot Arm? (Multiple answers)
+question_EA0DB23E_F4BB_C896_41EC_84D653580B9E.title = Which of the following options are precautions to be taken while operating the Robot Dog? (Multiple Answers)
+question_EA5B4906_F459_D876_41E9_8A172C48A7E0.title = Which of the following options is NOT the capability of the Virtual Reality technology? Please select 1 of the following options.
+
+### Question Screen
+quizQuestion_471850FB_4CBB_9E79_41CC_2788D0E00232.ok = OK
+
+### Report Screen
+quizScore_471DB0FC_4CBB_9E7F_41C1_4765AE41F10C.title = - SCORE -
+quizScore_471DB0FC_4CBB_9E7F_41C1_4765AE41F10C.completion = Completed
+quizScore_471DB0FC_4CBB_9E7F_41C1_4765AE41F10C.questionsCorrect = Correct
+quizScore_471DB0FC_4CBB_9E7F_41C1_4765AE41F10C.downloadCSV = Download .csv
+quizScore_471DB0FC_4CBB_9E7F_41C1_4765AE41F10C.questionsIncorrect = Incorrect
+quizScore_471DB0FC_4CBB_9E7F_41C1_4765AE41F10C.items = Items Found
+quizScore_471DB0FC_4CBB_9E7F_41C1_4765AE41F10C.questions = Questions
+quizScore_471DB0FC_4CBB_9E7F_41C1_4765AE41F10C.repeat = Repeat
+quizScore_471DB0FC_4CBB_9E7F_41C1_4765AE41F10C.submitToLMS = Submit
+quizScore_471DB0FC_4CBB_9E7F_41C1_4765AE41F10C.elapsedTime = Time
+
+### Score Name
+score1.label = Score 1
+
+### Timeout Screen
+quizTimeout_471850FB_4CBB_9E79_41B9_67BF8E12A901.title = - TIMEOUT -
+quizTimeout_471850FB_4CBB_9E79_41B9_67BF8E12A901.repeat = Repeat
+quizTimeout_471850FB_4CBB_9E79_41B9_67BF8E12A901.score = View Score
+
+## Hotspot
+
+### Tooltip
+HotspotPanoramaOverlayArea_31DB757A_2A69_C9C0_41BF_8D5A40D1903C.toolTip = Information
+HotspotPanoramaOverlayArea_745DA123_676E_B989_41CB_3009F19A77C3.toolTip = Information
+HotspotPanoramaOverlayArea_7423B4AB_6711_9899_41BE_0E3F351E081F.toolTip = Introduction Video
+HotspotPanoramaOverlayArea_33E3A667_2A69_4BC0_41B8_EC1C6813E7D1.toolTip = Introduction Video
+
+## Media
+
+### Title
+video_F46B4CB7_EC48_7995_41E3_C47AF4AA5F23.label = 5G Health and Wellness_1080p_20220112143527
+video_D227E03C_F4D9_C89A_41E7_904D563C41CF.label = AGV
+album_3786A613_34C8_486D_41BA_F2DBCE3528D3.label = AR
+video_F6D0C54B_EDBB_C8FD_41C8_7C84EE1D5444.label = AR
+album_FF7BDCF5_EBC8_D995_41EC_CE1920984DA1_0.label = Capture 1
+photo_3406DE2F_3448_D8B5_4193_C1EB21815C54.label = Capture1
+photo_3406DE2F_3448_D8B5_4193_C1EB21815C54.label = Capture1
+album_36D944A3_2A1E_27DF_41AA_1088D5EEA605_0.label = Capture1
+album_D2ECE6C7_F4D8_C9F5_41A8_353F18DD773E_0.label = Capture1
+album_35C60E93_34D8_586D_4196_F02EF37748FA_0.label = Capture1
+album_F508DDDD_EC48_DB95_41DF_6FA8A0849CE0_0.label = Capture1
+photo_3C94A713_2ABB_4947_41C4_82BE3B4CEA9E.label = Capture1
+album_FF7BDCF5_EBC8_D995_41EC_CE1920984DA1_1.label = Capture2
+album_D2ECE6C7_F4D8_C9F5_41A8_353F18DD773E_1.label = Capture2
+photo_36925AD4_3448_39EB_4176_7732DA1A5716.label = Capture2
+album_36D944A3_2A1E_27DF_41AA_1088D5EEA605_1.label = Capture2
+album_35C60E93_34D8_586D_4196_F02EF37748FA_1.label = Capture2
+album_F508DDDD_EC48_DB95_41DF_6FA8A0849CE0_1.label = Capture2
+photo_36925AD4_3448_39EB_4176_7732DA1A5716.label = Capture2
+album_EE3C5AD8_F4C8_399A_41A1_C70DD7EC48D5_1.label = Capture2
+album_F508DDDD_EC48_DB95_41DF_6FA8A0849CE0_2.label = Capture3
+album_D2ECE6C7_F4D8_C9F5_41A8_353F18DD773E_2.label = Capture3
+photo_34EA7F1F_2667_5940_41C2_51C2CF3ED07C.label = Capture3
+photo_34EA7F1F_2667_5940_41C2_51C2CF3ED07C.label = Capture3
+album_EE3C5AD8_F4C8_399A_41A1_C70DD7EC48D5_2.label = Capture3
+photo_3601A296_2667_4B40_41BC_46EBADDA42EA.label = Capture4
+album_D2ECE6C7_F4D8_C9F5_41A8_353F18DD773E_3.label = Capture4
+photo_3601A296_2667_4B40_41BC_46EBADDA42EA.label = Capture4
+album_F508DDDD_EC48_DB95_41DF_6FA8A0849CE0_3.label = Capture4
+photo_3B06C6B8_2AB9_CB40_418E_345BBA905D4F.label = Capture5
+photo_3B06C6B8_2AB9_CB40_418E_345BBA905D4F.label = Capture5
+album_F508DDDD_EC48_DB95_41DF_6FA8A0849CE0_4.label = Capture5
+album_D2ECE6C7_F4D8_C9F5_41A8_353F18DD773E_4.label = Capture5
+photo_360F7848_2667_47C1_4199_DE828B6409A4.label = Capture6
+album_F508DDDD_EC48_DB95_41DF_6FA8A0849CE0_5.label = Capture6
+photo_360F7848_2667_47C1_4199_DE828B6409A4.label = Capture6
+photo_D7799CE7_F4C8_59B5_41C8_DEC7D24702B6.label = Capture6
+panorama_E417E945_EBC8_38EA_419A_5E2168B7F07C.label = Centre for 5G Digital Building Technology
+panorama_E4258056_EBC8_4897_41CB_F2B2D2A6834F.label = Centre for 5G Digital Building Technology (II)
+panorama_F9F38998_EBC8_DB9B_41D2_B181B1396515.label = Centre for 5G Digital Building Technology (III)
+panorama_45216E44_4CB5_A58F_41C1_AAB3DD3FD4E0.label = Centre for 5G Digital Building Technology (IV)
+video_D081D8E5_F449_F9AA_41D0_A15248A0699E.label = General Cleaning Robot
+album_D1B29E23_F459_F8AD_41D8_F08319923BE2.label = General Cleaning Robot
+album_5E46D273_4DEC_9D8A_41BE_6829A3DAE166_0.label = Know Your Unit
+album_D1B29E23_F459_F8AD_41D8_F08319923BE2_0.label = MAX Brochure_01
+album_D1B29E23_F459_F8AD_41D8_F08319923BE2_1.label = MAX Brochure_02
+album_D1B29E23_F459_F8AD_41D8_F08319923BE2_2.label = MAX Brochure_03
+album_D1B29E23_F459_F8AD_41D8_F08319923BE2_3.label = MAX Brochure_05
+album_D1B29E23_F459_F8AD_41D8_F08319923BE2_4.label = MAX Brochure_06
+album_D1B29E23_F459_F8AD_41D8_F08319923BE2_5.label = MAX Brochure_07
+album_D1B29E23_F459_F8AD_41D8_F08319923BE2_6.label = MAX Brochure_08
+album_D1B29E23_F459_F8AD_41D8_F08319923BE2_7.label = MAX Brochure_09
+album_D1B29E23_F459_F8AD_41D8_F08319923BE2_8.label = MAX Brochure_10
+album_D1B29E23_F459_F8AD_41D8_F08319923BE2_9.label = MAX Brochure_11
+album_D1B29E23_F459_F8AD_41D8_F08319923BE2_10.label = MAX Brochure_12
+album_D1B29E23_F459_F8AD_41D8_F08319923BE2_11.label = MAX Brochure_13
+album_D1B29E23_F459_F8AD_41D8_F08319923BE2_12.label = MAX Brochure_14
+album_D1B29E23_F459_F8AD_41D8_F08319923BE2_13.label = MAX Brochure_15
+video_D1D830D6_F4B8_4997_41DE_1482F920AA0D.label = Outdoor Terrain Robot
+album_FF7BDCF5_EBC8_D995_41EC_CE1920984DA1.label = Photo Album Capture 1
+album_EE3C5AD8_F4C8_399A_41A1_C70DD7EC48D5.label = Photo Album Capture1
+album_D2ECE6C7_F4D8_C9F5_41A8_353F18DD773E.label = Photo Album Capture1
+album_F508DDDD_EC48_DB95_41DF_6FA8A0849CE0.label = Photo Album Capture1
+album_5E46D273_4DEC_9D8A_41BE_6829A3DAE166.label = Photo Album Know Your Unit
+video_314E0E0C_2A32_62E9_41AD_732CF7C00997.label = Prof Chew Black
+album_36D944A3_2A1E_27DF_41AA_1088D5EEA605.label = Robot Arm
+video_ECC9DBFE_F458_5F96_41C8_061DFA5F8710.label = Robot Dog
+album_EBFF6193_F4B8_C86E_41E0_1B834B723177.label = Robot Dog
+album_5E46D273_4DEC_9D8A_41BE_6829A3DAE166_1.label = Safety information 1
+album_5E46D273_4DEC_9D8A_41BE_6829A3DAE166_2.label = Safety information 2
+album_5E46D273_4DEC_9D8A_41BE_6829A3DAE166_3.label = Safety information 3
+video_30961DD4_2A67_38C1_41B6_2144CEE65D8C.label = Social Distancing Robot
+video_FDCD8343_EBB8_48ED_41DA_155BE4AD56A9.label = Social Distancing Robot
+video_F68E311D_EC49_C89A_41BC_241DCD2986EF.label = Temperature Robot
+album_35C60E93_34D8_586D_4196_F02EF37748FA.label = VR
+video_F6122350_EDB8_48EB_41DA_5A0DB7E9462E.label = VR
+video_3E488A68_2A76_6328_41BE_CC761C4FA375.label = Y2Mate.is - 5GDBT- 5G and Digital Twin 1080p-Wydxs7iYyKo-1080p-1645680161150 (1)
+
+### Video
+videolevel_31F4446F_2A11_E728_41A9_8EAB22A5F806.url = media/video_30961DD4_2A67_38C1_41B6_2144CEE65D8C_en.mp4
+videolevel_31F4446F_2A11_E728_41A9_8EAB22A5F806.posterURL = media/video_30961DD4_2A67_38C1_41B6_2144CEE65D8C_poster_en.jpg
+videolevel_31F84583_2A11_E1DF_41C0_5F5D0809F55A.url = media/video_314E0E0C_2A32_62E9_41AD_732CF7C00997_en.mp4
+videolevel_31F84583_2A11_E1DF_41C0_5F5D0809F55A.posterURL = media/video_314E0E0C_2A32_62E9_41AD_732CF7C00997_poster_en.jpg
+videolevel_31F6C52F_2A11_E127_41C1_C093104BFFC0.url = media/video_3E488A68_2A76_6328_41BE_CC761C4FA375_en.mp4
+videolevel_31F6C52F_2A11_E127_41C1_C093104BFFC0.posterURL = media/video_3E488A68_2A76_6328_41BE_CC761C4FA375_poster_en.jpg
+videolevel_31EBC176_2A11_E139_417F_C826BA048E8E.url = media/video_D081D8E5_F449_F9AA_41D0_A15248A0699E_en.mp4
+videolevel_31EBC176_2A11_E139_417F_C826BA048E8E.posterURL = media/video_D081D8E5_F449_F9AA_41D0_A15248A0699E_poster_en.jpg
+videolevel_31EA511A_2A11_FEE9_419D_99E7D27587EE.url = media/video_D1D830D6_F4B8_4997_41DE_1482F920AA0D_en.mp4
+videolevel_31EA511A_2A11_FEE9_419D_99E7D27587EE.posterURL = media/video_D1D830D6_F4B8_4997_41DE_1482F920AA0D_poster_en.jpg
+videolevel_31E6D010_2A11_FEF8_41C0_C4323121CDC9.url = media/video_D227E03C_F4D9_C89A_41E7_904D563C41CF_en.mp4
+videolevel_31E6D010_2A11_FEF8_41C0_C4323121CDC9.posterURL = media/video_D227E03C_F4D9_C89A_41E7_904D563C41CF_poster_en.jpg
+videolevel_31E22E4E_2A11_E368_4199_B0C37E704109.url = media/video_ECC9DBFE_F458_5F96_41C8_061DFA5F8710_en.mp4
+videolevel_31E22E4E_2A11_E368_4199_B0C37E704109.posterURL = media/video_ECC9DBFE_F458_5F96_41C8_061DFA5F8710_poster_en.jpg
+videolevel_319BFBF6_2A11_E139_41AE_DA0AC97582E4.url = media/video_F46B4CB7_EC48_7995_41E3_C47AF4AA5F23_en.mp4
+videolevel_319BFBF6_2A11_E139_41AE_DA0AC97582E4.posterURL = media/video_F46B4CB7_EC48_7995_41E3_C47AF4AA5F23_poster_en.jpg
+videolevel_319F8D84_2A11_E1D9_41A2_55F478560C9A.url = media/video_F6122350_EDB8_48EB_41DA_5A0DB7E9462E_en.mp4
+videolevel_319F8D84_2A11_E1D9_41A2_55F478560C9A.posterURL = media/video_F6122350_EDB8_48EB_41DA_5A0DB7E9462E_poster_en.jpg
+videolevel_319CBC46_2A11_E759_41C4_6C1B50B4B79F.url = media/video_F68E311D_EC49_C89A_41BC_241DCD2986EF_en.mp4
+videolevel_319CBC46_2A11_E759_41C4_6C1B50B4B79F.posterURL = media/video_F68E311D_EC49_C89A_41BC_241DCD2986EF_poster_en.jpg
+videolevel_31E0EDEA_2A11_E128_41C5_411333B36FD6.url = media/video_F6D0C54B_EDBB_C8FD_41C8_7C84EE1D5444_en.mp4
+videolevel_31E0EDEA_2A11_E128_41C5_411333B36FD6.posterURL = media/video_F6D0C54B_EDBB_C8FD_41C8_7C84EE1D5444_poster_en.jpg
+videolevel_319B6B93_2A11_E1F8_41C5_183CDD66F242.url = media/video_FDCD8343_EBB8_48ED_41DA_155BE4AD56A9_en.mp4
+videolevel_319B6B93_2A11_E1F8_41C5_183CDD66F242.posterURL = media/video_FDCD8343_EBB8_48ED_41DA_155BE4AD56A9_poster_en.jpg
+
+## Popup
+
+### Body
+htmlText_32B201A2_2BF3_E1D8_41C4_F3EB939491C1.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:center;font-size:27px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:27px;"><U>Why don't you try clicking on the TV?</U></SPAN></SPAN></DIV></BODY></HTML></div>
+htmlText_33AD0318_2A32_E2E9_4199_28F0979B5044.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:center;font-size:27px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:27px;"><U>Why don't you try clicking on the TV?</U></SPAN></SPAN></DIV></BODY></HTML></div>
+htmlText_3396D7A4_3458_57AA_41B4_4D4FC440D79A.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Our Strategic Partners:</SPAN></DIV><DIV STYLE="text-align:left;font-size:15px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:15px;">  •  Kajima Corporation</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:15px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:15px;">  •  Glodon</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:15px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:15px;">  •  Virspatial</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:15px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:15px;">  •  Globotix</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:15px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:15px;">  •  M1</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:15px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:15px;">  •  Nokia</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:15px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:15px;">  •  Weston Robot</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:15px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:15px;">  •  Techmetics Robotics</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:15px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:15px;">  •  CBM</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:15px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:15px;">  •  HikVision</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:15px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:15px;">  •  ISDNHoldings</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:15px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:15px;">  •  Mind Point Eye</SPAN></SPAN></DIV></BODY></HTML></div>
+
+## Skin
+
+### Multiline Text
+htmlText_32B201A2_2BF3_E1D8_41C4_F3EB939491C1.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:center;font-size:27px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:27px;"><U>Why don't you try clicking on the TV?</U></SPAN></SPAN></DIV></BODY></HTML></div>
+htmlText_33AD0318_2A32_E2E9_4199_28F0979B5044.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:center;font-size:27px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:27px;"><U>Why don't you try clicking on the TV?</U></SPAN></SPAN></DIV></BODY></HTML></div>
+htmlText_3396D7A4_3458_57AA_41B4_4D4FC440D79A.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Our Strategic Partners:</SPAN></DIV><DIV STYLE="text-align:left;font-size:15px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:15px;">  •  Kajima Corporation</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:15px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:15px;">  •  Glodon</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:15px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:15px;">  •  Virspatial</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:15px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:15px;">  •  Globotix</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:15px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:15px;">  •  M1</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:15px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:15px;">  •  Nokia</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:15px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:15px;">  •  Weston Robot</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:15px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:15px;">  •  Techmetics Robotics</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:15px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:15px;">  •  CBM</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:15px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:15px;">  •  HikVision</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:15px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:15px;">  •  ISDNHoldings</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:15px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:15px;">  •  Mind Point Eye</SPAN></SPAN></DIV></BODY></HTML></div>
+HTMLText_48F905B9_58ED_7EE3_41AC_8BD6AECB26B8.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:53px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:53px;font-family:'Corbel';"><B>Current Quiz Score</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:40px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#3399ff;font-size:40px;"><B><I>{{quiz.score1.score}}/{{quiz.global.score.total}}</I></B></SPAN></SPAN></DIV></div>
+
+## Tour
+
+### Description
+
+### Title
+tour.name = VR Project v1
